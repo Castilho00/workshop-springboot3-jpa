@@ -21,22 +21,11 @@ O projeto trata-se de uma aplicação Backend, visando a implementação do CRUD
 - H2 (testes)
 - Postman (testes)
 
-# Como executar o projeto
-Pré-requisitos: Java 11
+# Painel admin H2
 
-	# Clonar o projeto
-	
-	git clone https://github.com/Castilho00/workshop-springboot3-jpa
-	
-	# Entrar na pasta do projeto
-	
-	cd (pasta do projeto)
-	
-	# Executar comando no PowerShell
-	
-	./mvnw spring-boot:run
+![Web 3](https://github.com/Castilho00/workshop-springboot3-jpa/blob/main/images/tabelas.png)
 
 # Autor
 João Vitor Castilho
 
-https://www.linkedin.com/feed/
+https://www.linkedin.com/in/joao-vitor-castilho/
